@@ -1,0 +1,52 @@
+.container {
+  width: 1000px;
+  height: 500px;
+  background-color: peachpuff;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  align-content: center;
+}
+
+#encrypt {
+  height: 50px;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+#pw {
+  height: 50px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+#zahl {
+  height: 50px;
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+#reset {
+  height: 50px;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+}
+
+#ergebnis {
+  width: 1000px;
+  height: 200px;
+  background-color: peachpuff;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  align-content: center;
+}
